@@ -44,7 +44,7 @@ const App = () => {
 
 	return (
 		<div className="container">
-			<center><h1>CRUD Application Deployment</h1></center>
+			<center><h1>CRUD Application Deployment GitHub Test</h1></center>
 			<hr/>
 			<div className="flex-row">
 				<div className="flex-large">
